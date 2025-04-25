@@ -1,0 +1,13 @@
+INFO:mylogger:This is info logger
+INFO:mylogger:This is info logger
+INFO:mylogger:Tom
+INFO:mylogger:This is info logger
+INFO:mylogger:Tom
+INFO:mylogger:18
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: cb79d118-cc8f-469e-baea-34385bc7ea42
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: f3f2e226-9ab4-41bf-8571-0d83bddffb73
+INFO:mylogger:This is info logger
+INFO:mylogger:Tom
+INFO:mylogger:18
